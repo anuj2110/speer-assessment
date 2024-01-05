@@ -1,4 +1,4 @@
-# SPEER ASSESSMENT BY Anuj Treha (atrehan789@gmail.com / atrehan1098@gmail.com)
+# SPEER ASSESSMENT BY Anuj Trehan (atrehan789@gmail.com / atrehan1098@gmail.com)
 
 ## This repo contains the code for the backend challenge for the Speer Inteview chance. Following are the details
 
